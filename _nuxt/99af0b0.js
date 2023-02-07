@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{560:function(e,l,n){"use strict";n.r(l);var t={middleware:"routerAuth",scrollToTop:!0,meta:{close:!1}},o=n(29),component=Object(o.a)(t,(function(){var e=this._self._c;return e("div",[e("nuxt-child")],1)}),[],!1,null,null,null);l.default=component.exports}}]);

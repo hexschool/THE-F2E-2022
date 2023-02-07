@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1675753070",layout:"error",error:{statusCode:400,message:"找不到使用者",statusText:"Bad Request"},state:{},serverRendered:false,routePath:"\u002Fusers\u002Fundefined",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:null}}};

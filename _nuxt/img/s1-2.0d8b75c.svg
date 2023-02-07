@@ -1,0 +1,665 @@
+<svg width="746" height="360" viewBox="0 0 746 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_786_226" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="746" height="360">
+<rect width="746" height="360" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_786_226)">
+<rect x="198" y="167" width="10" height="10" fill="black"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 198 197)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 498 167)" fill="black"/>
+<rect x="498" y="197" width="10" height="10" transform="rotate(-180 498 197)" fill="black"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 198 187)" fill="black"/>
+<rect x="498" y="187" width="10" height="10" transform="rotate(-180 498 187)" fill="black"/>
+<rect x="208" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 208 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 488 167)" fill="white"/>
+<rect x="488" y="197" width="10" height="10" transform="rotate(-180 488 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 208 187)" fill="white"/>
+<rect x="488" y="187" width="10" height="10" transform="rotate(-180 488 187)" fill="white"/>
+<rect x="218" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 218 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 478 127)" fill="white"/>
+<rect x="478" y="237" width="10" height="10" transform="rotate(-180 478 237)" fill="white"/>
+<rect x="218" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 218 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 478 137)" fill="white"/>
+<rect x="478" y="227" width="10" height="10" transform="rotate(-180 478 227)" fill="white"/>
+<rect x="218" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 218 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 478 147)" fill="white"/>
+<rect x="478" y="217" width="10" height="10" transform="rotate(-180 478 217)" fill="white"/>
+<rect x="218" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 218 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 478 157)" fill="white"/>
+<rect x="478" y="207" width="10" height="10" transform="rotate(-180 478 207)" fill="white"/>
+<rect x="218" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 218 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 478 167)" fill="white"/>
+<rect x="478" y="197" width="10" height="10" transform="rotate(-180 478 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 218 187)" fill="white"/>
+<rect x="478" y="187" width="10" height="10" transform="rotate(-180 478 187)" fill="white"/>
+<rect x="328" y="47" width="10" height="10" fill="black"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 317)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 47)" fill="black"/>
+<rect x="368" y="317" width="10" height="10" transform="rotate(-180 368 317)" fill="black"/>
+<rect x="328" y="57" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 307)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 57)" fill="white"/>
+<rect x="368" y="307" width="10" height="10" transform="rotate(-180 368 307)" fill="white"/>
+<rect x="328" y="67" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 297)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 67)" fill="white"/>
+<rect x="368" y="297" width="10" height="10" transform="rotate(-180 368 297)" fill="white"/>
+<rect x="278" y="67" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 297)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 67)" fill="white"/>
+<rect x="418" y="297" width="10" height="10" transform="rotate(-180 418 297)" fill="white"/>
+<rect x="328" y="77" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 287)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 77)" fill="white"/>
+<rect x="368" y="287" width="10" height="10" transform="rotate(-180 368 287)" fill="white"/>
+<rect x="278" y="77" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 287)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 77)" fill="white"/>
+<rect x="418" y="287" width="10" height="10" transform="rotate(-180 418 287)" fill="white"/>
+<rect x="328" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 87)" fill="white"/>
+<rect x="368" y="277" width="10" height="10" transform="rotate(-180 368 277)" fill="white"/>
+<rect x="278" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 87)" fill="white"/>
+<rect x="418" y="277" width="10" height="10" transform="rotate(-180 418 277)" fill="white"/>
+<rect x="328" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 97)" fill="white"/>
+<rect x="368" y="267" width="10" height="10" transform="rotate(-180 368 267)" fill="white"/>
+<rect x="278" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 97)" fill="white"/>
+<rect x="418" y="267" width="10" height="10" transform="rotate(-180 418 267)" fill="white"/>
+<rect x="328" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 107)" fill="white"/>
+<rect x="368" y="257" width="10" height="10" transform="rotate(-180 368 257)" fill="white"/>
+<rect x="278" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 107)" fill="white"/>
+<rect x="418" y="257" width="10" height="10" transform="rotate(-180 418 257)" fill="white"/>
+<rect x="228" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 228 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 468 107)" fill="white"/>
+<rect x="468" y="257" width="10" height="10" transform="rotate(-180 468 257)" fill="white"/>
+<rect x="328" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 117)" fill="white"/>
+<rect x="368" y="247" width="10" height="10" transform="rotate(-180 368 247)" fill="white"/>
+<rect x="278" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 117)" fill="#79EAEE"/>
+<rect x="418" y="247" width="10" height="10" transform="rotate(-180 418 247)" fill="white"/>
+<rect x="228" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 228 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 468 117)" fill="white"/>
+<rect x="468" y="247" width="10" height="10" transform="rotate(-180 468 247)" fill="white"/>
+<rect x="328" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 127)" fill="white"/>
+<rect x="368" y="237" width="10" height="10" transform="rotate(-180 368 237)" fill="white"/>
+<rect x="278" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 127)" fill="white"/>
+<rect x="418" y="237" width="10" height="10" transform="rotate(-180 418 237)" fill="white"/>
+<rect x="228" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 228 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 468 127)" fill="white"/>
+<rect x="468" y="237" width="10" height="10" transform="rotate(-180 468 237)" fill="white"/>
+<rect x="328" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 137)" fill="white"/>
+<rect x="368" y="227" width="10" height="10" transform="rotate(-180 368 227)" fill="white"/>
+<rect x="278" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 137)" fill="white"/>
+<rect x="418" y="227" width="10" height="10" transform="rotate(-180 418 227)" fill="white"/>
+<rect x="228" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 228 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 468 137)" fill="white"/>
+<rect x="468" y="227" width="10" height="10" transform="rotate(-180 468 227)" fill="white"/>
+<rect x="328" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 147)" fill="white"/>
+<rect x="368" y="217" width="10" height="10" transform="rotate(-180 368 217)" fill="white"/>
+<rect x="278" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 147)" fill="white"/>
+<rect x="418" y="217" width="10" height="10" transform="rotate(-180 418 217)" fill="white"/>
+<rect x="228" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 228 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 468 147)" fill="white"/>
+<rect x="468" y="217" width="10" height="10" transform="rotate(-180 468 217)" fill="white"/>
+<rect x="328" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 157)" fill="white"/>
+<rect x="368" y="207" width="10" height="10" transform="rotate(-180 368 207)" fill="white"/>
+<rect x="278" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 157)" fill="white"/>
+<rect x="418" y="207" width="10" height="10" transform="rotate(-180 418 207)" fill="white"/>
+<rect x="228" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 228 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 468 157)" fill="white"/>
+<rect x="468" y="207" width="10" height="10" transform="rotate(-180 468 207)" fill="white"/>
+<rect x="328" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 368 167)" fill="white"/>
+<rect x="368" y="197" width="10" height="10" transform="rotate(-180 368 197)" fill="white"/>
+<rect x="278" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 418 167)" fill="white"/>
+<rect x="418" y="197" width="10" height="10" transform="rotate(-180 418 197)" fill="white"/>
+<rect x="228" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 228 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 468 167)" fill="white"/>
+<rect x="468" y="197" width="10" height="10" transform="rotate(-180 468 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 328 187)" fill="white"/>
+<rect x="368" y="187" width="10" height="10" transform="rotate(-180 368 187)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 278 187)" fill="white"/>
+<rect x="418" y="187" width="10" height="10" transform="rotate(-180 418 187)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 228 187)" fill="white"/>
+<rect x="468" y="187" width="10" height="10" transform="rotate(-180 468 187)" fill="white"/>
+<rect x="328" y="307" width="10" height="10" fill="white"/>
+<rect x="333" y="317" width="10" height="10" fill="white"/>
+<rect x="333" y="327" width="10" height="10" fill="black"/>
+<rect x="338" y="47" width="10" height="10" fill="black"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 317)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 47)" fill="black"/>
+<rect x="358" y="317" width="10" height="10" transform="rotate(-180 358 317)" fill="black"/>
+<rect x="338" y="57" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 307)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 57)" fill="white"/>
+<rect x="358" y="307" width="10" height="10" transform="rotate(-180 358 307)" fill="white"/>
+<rect x="338" y="67" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 297)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 67)" fill="white"/>
+<rect x="358" y="297" width="10" height="10" transform="rotate(-180 358 297)" fill="white"/>
+<rect x="288" y="67" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 297)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 67)" fill="white"/>
+<rect x="408" y="297" width="10" height="10" transform="rotate(-180 408 297)" fill="white"/>
+<rect x="338" y="77" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 287)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 77)" fill="white"/>
+<rect x="358" y="287" width="10" height="10" transform="rotate(-180 358 287)" fill="white"/>
+<rect x="288" y="77" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 287)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 77)" fill="white"/>
+<rect x="408" y="287" width="10" height="10" transform="rotate(-180 408 287)" fill="white"/>
+<rect x="338" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 87)" fill="white"/>
+<rect x="358" y="277" width="10" height="10" transform="rotate(-180 358 277)" fill="white"/>
+<rect x="288" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 87)" fill="white"/>
+<rect x="408" y="277" width="10" height="10" transform="rotate(-180 408 277)" fill="white"/>
+<rect x="338" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 97)" fill="white"/>
+<rect x="358" y="267" width="10" height="10" transform="rotate(-180 358 267)" fill="white"/>
+<rect x="288" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 97)" fill="white"/>
+<rect x="408" y="267" width="10" height="10" transform="rotate(-180 408 267)" fill="white"/>
+<rect x="338" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 107)" fill="white"/>
+<rect x="358" y="257" width="10" height="10" transform="rotate(-180 358 257)" fill="white"/>
+<rect x="288" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 107)" fill="white"/>
+<rect x="408" y="257" width="10" height="10" transform="rotate(-180 408 257)" fill="white"/>
+<rect x="238" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 238 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 458 107)" fill="white"/>
+<rect x="458" y="257" width="10" height="10" transform="rotate(-180 458 257)" fill="white"/>
+<rect x="338" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 117)" fill="white"/>
+<rect x="358" y="247" width="10" height="10" transform="rotate(-180 358 247)" fill="white"/>
+<rect x="288" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 117)" fill="white"/>
+<rect x="408" y="247" width="10" height="10" transform="rotate(-180 408 247)" fill="white"/>
+<rect x="238" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 238 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 458 117)" fill="white"/>
+<rect x="458" y="247" width="10" height="10" transform="rotate(-180 458 247)" fill="white"/>
+<rect x="338" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 127)" fill="white"/>
+<rect x="358" y="237" width="10" height="10" transform="rotate(-180 358 237)" fill="white"/>
+<rect x="288" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 127)" fill="white"/>
+<rect x="408" y="237" width="10" height="10" transform="rotate(-180 408 237)" fill="white"/>
+<rect x="238" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 238 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 458 127)" fill="white"/>
+<rect x="458" y="237" width="10" height="10" transform="rotate(-180 458 237)" fill="white"/>
+<rect x="338" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 137)" fill="white"/>
+<rect x="358" y="227" width="10" height="10" transform="rotate(-180 358 227)" fill="white"/>
+<rect x="288" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 137)" fill="white"/>
+<rect x="408" y="227" width="10" height="10" transform="rotate(-180 408 227)" fill="white"/>
+<rect x="238" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 238 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 458 137)" fill="white"/>
+<rect x="458" y="227" width="10" height="10" transform="rotate(-180 458 227)" fill="white"/>
+<rect x="338" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 147)" fill="white"/>
+<rect x="358" y="217" width="10" height="10" transform="rotate(-180 358 217)" fill="white"/>
+<rect x="288" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 147)" fill="white"/>
+<rect x="408" y="217" width="10" height="10" transform="rotate(-180 408 217)" fill="white"/>
+<rect x="238" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 238 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 458 147)" fill="white"/>
+<rect x="458" y="217" width="10" height="10" transform="rotate(-180 458 217)" fill="white"/>
+<rect x="338" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 157)" fill="white"/>
+<rect x="358" y="207" width="10" height="10" transform="rotate(-180 358 207)" fill="white"/>
+<rect x="288" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 157)" fill="white"/>
+<rect x="408" y="207" width="10" height="10" transform="rotate(-180 408 207)" fill="white"/>
+<rect x="238" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 238 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 458 157)" fill="white"/>
+<rect x="458" y="207" width="10" height="10" transform="rotate(-180 458 207)" fill="white"/>
+<rect x="338" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 358 167)" fill="white"/>
+<rect x="358" y="197" width="10" height="10" transform="rotate(-180 358 197)" fill="white"/>
+<rect x="288" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 408 167)" fill="white"/>
+<rect x="408" y="197" width="10" height="10" transform="rotate(-180 408 197)" fill="white"/>
+<rect x="238" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 238 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 458 167)" fill="white"/>
+<rect x="458" y="197" width="10" height="10" transform="rotate(-180 458 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 338 187)" fill="white"/>
+<rect x="358" y="187" width="10" height="10" transform="rotate(-180 358 187)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 288 187)" fill="white"/>
+<rect x="408" y="187" width="10" height="10" transform="rotate(-180 408 187)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 238 187)" fill="#F8CC46"/>
+<rect x="458" y="187" width="10" height="10" transform="rotate(-180 458 187)" fill="white"/>
+<rect x="338" y="307" width="10" height="10" fill="white"/>
+<rect x="343" y="317" width="10" height="10" fill="white"/>
+<rect x="343" y="327" width="10" height="10" fill="white"/>
+<rect x="343" y="337" width="10" height="10" fill="black"/>
+<rect x="298" y="67" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 297)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 67)" fill="white"/>
+<rect x="398" y="297" width="10" height="10" transform="rotate(-180 398 297)" fill="white"/>
+<rect x="298" y="77" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 287)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 77)" fill="white"/>
+<rect x="398" y="287" width="10" height="10" transform="rotate(-180 398 287)" fill="white"/>
+<rect x="298" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 87)" fill="white"/>
+<rect x="398" y="277" width="10" height="10" transform="rotate(-180 398 277)" fill="white"/>
+<rect x="248" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 87)" fill="white"/>
+<rect x="448" y="277" width="10" height="10" transform="rotate(-180 448 277)" fill="white"/>
+<rect x="298" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 97)" fill="white"/>
+<rect x="398" y="267" width="10" height="10" transform="rotate(-180 398 267)" fill="white"/>
+<rect x="248" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 97)" fill="white"/>
+<rect x="448" y="267" width="10" height="10" transform="rotate(-180 448 267)" fill="white"/>
+<rect x="298" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 107)" fill="white"/>
+<rect x="398" y="257" width="10" height="10" transform="rotate(-180 398 257)" fill="white"/>
+<rect x="248" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 107)" fill="white"/>
+<rect x="448" y="257" width="10" height="10" transform="rotate(-180 448 257)" fill="white"/>
+<rect x="298" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 117)" fill="white"/>
+<rect x="398" y="247" width="10" height="10" transform="rotate(-180 398 247)" fill="white"/>
+<rect x="248" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 117)" fill="white"/>
+<rect x="448" y="247" width="10" height="10" transform="rotate(-180 448 247)" fill="white"/>
+<rect x="298" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 127)" fill="white"/>
+<rect x="398" y="237" width="10" height="10" transform="rotate(-180 398 237)" fill="white"/>
+<rect x="248" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 127)" fill="white"/>
+<rect x="448" y="237" width="10" height="10" transform="rotate(-180 448 237)" fill="white"/>
+<rect x="298" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 137)" fill="white"/>
+<rect x="398" y="227" width="10" height="10" transform="rotate(-180 398 227)" fill="white"/>
+<rect x="248" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 137)" fill="white"/>
+<rect x="448" y="227" width="10" height="10" transform="rotate(-180 448 227)" fill="white"/>
+<rect x="298" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 147)" fill="white"/>
+<rect x="398" y="217" width="10" height="10" transform="rotate(-180 398 217)" fill="white"/>
+<rect x="248" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 147)" fill="white"/>
+<rect x="448" y="217" width="10" height="10" transform="rotate(-180 448 217)" fill="white"/>
+<rect x="298" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 157)" fill="white"/>
+<rect x="398" y="207" width="10" height="10" transform="rotate(-180 398 207)" fill="white"/>
+<rect x="248" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 157)" fill="white"/>
+<rect x="448" y="207" width="10" height="10" transform="rotate(-180 448 207)" fill="white"/>
+<rect x="298" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 398 167)" fill="white"/>
+<rect x="398" y="197" width="10" height="10" transform="rotate(-180 398 197)" fill="white"/>
+<rect x="248" y="167" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 197)" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 448 167)" fill="white"/>
+<rect x="448" y="197" width="10" height="10" transform="rotate(-180 448 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 298 187)" fill="white"/>
+<rect x="398" y="187" width="10" height="10" transform="rotate(-180 398 187)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 248 187)" fill="#F8CC46"/>
+<rect x="448" y="187" width="10" height="10" transform="rotate(-180 448 187)" fill="white"/>
+<rect x="348" y="307" width="10" height="10" fill="white"/>
+<rect x="353" y="317" width="10" height="10" fill="white"/>
+<rect x="353" y="327" width="10" height="10" fill="black"/>
+<rect x="308" y="67" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 297)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 67)" fill="white"/>
+<rect x="388" y="297" width="10" height="10" transform="rotate(-180 388 297)" fill="white"/>
+<rect x="308" y="77" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 287)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 77)" fill="white"/>
+<rect x="388" y="287" width="10" height="10" transform="rotate(-180 388 287)" fill="white"/>
+<rect x="308" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 87)" fill="white"/>
+<rect x="388" y="277" width="10" height="10" transform="rotate(-180 388 277)" fill="white"/>
+<rect x="258" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 87)" fill="white"/>
+<rect x="438" y="277" width="10" height="10" transform="rotate(-180 438 277)" fill="white"/>
+<rect x="308" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 97)" fill="white"/>
+<rect x="388" y="267" width="10" height="10" transform="rotate(-180 388 267)" fill="white"/>
+<rect x="258" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 97)" fill="white"/>
+<rect x="438" y="267" width="10" height="10" transform="rotate(-180 438 267)" fill="white"/>
+<rect x="308" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 107)" fill="white"/>
+<rect x="388" y="257" width="10" height="10" transform="rotate(-180 388 257)" fill="white"/>
+<rect x="258" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 107)" fill="white"/>
+<rect x="438" y="257" width="10" height="10" transform="rotate(-180 438 257)" fill="white"/>
+<rect x="308" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 117)" fill="white"/>
+<rect x="388" y="247" width="10" height="10" transform="rotate(-180 388 247)" fill="white"/>
+<rect x="258" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 117)" fill="#79EAEE"/>
+<rect x="438" y="247" width="10" height="10" transform="rotate(-180 438 247)" fill="white"/>
+<rect x="308" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 127)" fill="white"/>
+<rect x="388" y="237" width="10" height="10" transform="rotate(-180 388 237)" fill="white"/>
+<rect x="258" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 127)" fill="white"/>
+<rect x="438" y="237" width="10" height="10" transform="rotate(-180 438 237)" fill="white"/>
+<rect x="308" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 137)" fill="white"/>
+<rect x="388" y="227" width="10" height="10" transform="rotate(-180 388 227)" fill="white"/>
+<rect x="258" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 137)" fill="white"/>
+<rect x="438" y="227" width="10" height="10" transform="rotate(-180 438 227)" fill="white"/>
+<rect x="308" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 147)" fill="white"/>
+<rect x="388" y="217" width="10" height="10" transform="rotate(-180 388 217)" fill="white"/>
+<rect x="258" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 147)" fill="white"/>
+<rect x="438" y="217" width="10" height="10" transform="rotate(-180 438 217)" fill="white"/>
+<rect x="308" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 157)" fill="white"/>
+<rect x="388" y="207" width="10" height="10" transform="rotate(-180 388 207)" fill="white"/>
+<rect x="258" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 157)" fill="white"/>
+<rect x="438" y="207" width="10" height="10" transform="rotate(-180 438 207)" fill="white"/>
+<rect x="308" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 388 167)" fill="white"/>
+<rect x="388" y="197" width="10" height="10" transform="rotate(-180 388 197)" fill="white"/>
+<rect x="258" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 438 167)" fill="white"/>
+<rect x="438" y="197" width="10" height="10" transform="rotate(-180 438 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 308 187)" fill="white"/>
+<rect x="388" y="187" width="10" height="10" transform="rotate(-180 388 187)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 258 187)" fill="#F8CC46"/>
+<rect x="438" y="187" width="10" height="10" transform="rotate(-180 438 187)" fill="white"/>
+<rect x="358" y="307" width="10" height="10" fill="white"/>
+<rect x="363" y="317" width="10" height="10" fill="black"/>
+<rect x="318" y="47" width="10" height="10" fill="black"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 317)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 47)" fill="black"/>
+<rect x="378" y="317" width="10" height="10" transform="rotate(-180 378 317)" fill="black"/>
+<rect x="318" y="57" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 307)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 57)" fill="white"/>
+<rect x="378" y="307" width="10" height="10" transform="rotate(-180 378 307)" fill="white"/>
+<rect x="318" y="67" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 297)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 67)" fill="white"/>
+<rect x="378" y="297" width="10" height="10" transform="rotate(-180 378 297)" fill="white"/>
+<rect x="268" y="67" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 297)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 67)" fill="white"/>
+<rect x="428" y="297" width="10" height="10" transform="rotate(-180 428 297)" fill="white"/>
+<rect x="318" y="77" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 287)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 77)" fill="white"/>
+<rect x="378" y="287" width="10" height="10" transform="rotate(-180 378 287)" fill="white"/>
+<rect x="268" y="77" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 287)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 77)" fill="white"/>
+<rect x="428" y="287" width="10" height="10" transform="rotate(-180 428 287)" fill="white"/>
+<rect x="318" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 87)" fill="white"/>
+<rect x="378" y="277" width="10" height="10" transform="rotate(-180 378 277)" fill="white"/>
+<rect x="268" y="87" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 277)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 87)" fill="white"/>
+<rect x="428" y="277" width="10" height="10" transform="rotate(-180 428 277)" fill="white"/>
+<rect x="318" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 97)" fill="white"/>
+<rect x="378" y="267" width="10" height="10" transform="rotate(-180 378 267)" fill="white"/>
+<rect x="268" y="97" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 267)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 97)" fill="white"/>
+<rect x="428" y="267" width="10" height="10" transform="rotate(-180 428 267)" fill="white"/>
+<rect x="318" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 107)" fill="white"/>
+<rect x="378" y="257" width="10" height="10" transform="rotate(-180 378 257)" fill="white"/>
+<rect x="268" y="107" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 257)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 107)" fill="#79EAEE"/>
+<rect x="428" y="257" width="10" height="10" transform="rotate(-180 428 257)" fill="white"/>
+<rect x="318" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 117)" fill="white"/>
+<rect x="378" y="247" width="10" height="10" transform="rotate(-180 378 247)" fill="white"/>
+<rect x="268" y="117" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 247)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 117)" fill="#79EAEE"/>
+<rect x="428" y="247" width="10" height="10" transform="rotate(-180 428 247)" fill="white"/>
+<rect x="318" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 127)" fill="white"/>
+<rect x="378" y="237" width="10" height="10" transform="rotate(-180 378 237)" fill="white"/>
+<rect x="268" y="127" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 237)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 127)" fill="#79EAEE"/>
+<rect x="428" y="237" width="10" height="10" transform="rotate(-180 428 237)" fill="white"/>
+<rect x="318" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 137)" fill="white"/>
+<rect x="378" y="227" width="10" height="10" transform="rotate(-180 378 227)" fill="white"/>
+<rect x="268" y="137" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 227)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 137)" fill="white"/>
+<rect x="428" y="227" width="10" height="10" transform="rotate(-180 428 227)" fill="white"/>
+<rect x="318" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 147)" fill="white"/>
+<rect x="378" y="217" width="10" height="10" transform="rotate(-180 378 217)" fill="white"/>
+<rect x="268" y="147" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 217)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 147)" fill="white"/>
+<rect x="428" y="217" width="10" height="10" transform="rotate(-180 428 217)" fill="white"/>
+<rect x="318" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 157)" fill="white"/>
+<rect x="378" y="207" width="10" height="10" transform="rotate(-180 378 207)" fill="white"/>
+<rect x="268" y="157" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 207)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 157)" fill="white"/>
+<rect x="428" y="207" width="10" height="10" transform="rotate(-180 428 207)" fill="white"/>
+<rect x="318" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 378 167)" fill="white"/>
+<rect x="378" y="197" width="10" height="10" transform="rotate(-180 378 197)" fill="white"/>
+<rect x="268" y="167" width="10" height="10" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 428 167)" fill="white"/>
+<rect x="428" y="197" width="10" height="10" transform="rotate(-180 428 197)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 318 187)" fill="white"/>
+<rect x="378" y="187" width="10" height="10" transform="rotate(-180 378 187)" fill="white"/>
+<rect width="10" height="10" transform="matrix(1 0 0 -1 268 187)" fill="white"/>
+<rect x="428" y="187" width="10" height="10" transform="rotate(-180 428 187)" fill="white"/>
+<rect x="368" y="307" width="10" height="10" fill="white"/>
+<rect x="318" y="307" width="10" height="10" fill="white"/>
+<rect x="373" y="317" width="10" height="10" fill="black"/>
+<rect x="323" y="317" width="10" height="10" fill="black"/>
+<rect x="540" y="12" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 650 12)" fill="#F8CC46"/>
+<rect x="550" y="22" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 640 22)" fill="#F8CC46"/>
+<rect x="560" y="32" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 630 32)" fill="#F8CC46"/>
+<rect x="570" y="42" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 620 42)" fill="#F8CC46"/>
+<rect x="580" y="52" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 610 52)" fill="#F8CC46"/>
+<rect x="590" y="62" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 600 62)" fill="#F8CC46"/>
+<rect x="600" y="72" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 590 72)" fill="#F8CC46"/>
+<rect x="610" y="82" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 580 82)" fill="#F8CC46"/>
+<rect x="620" y="92" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 570 92)" fill="#F8CC46"/>
+<rect x="630" y="102" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 560 102)" fill="#F8CC46"/>
+<rect x="550" y="12" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 640 12)" fill="#F8CC46"/>
+<rect x="560" y="22" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 630 22)" fill="#F8CC46"/>
+<rect x="570" y="32" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 620 32)" fill="#F8CC46"/>
+<rect x="580" y="42" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 610 42)" fill="#F8CC46"/>
+<rect x="590" y="52" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 600 52)" fill="#F8CC46"/>
+<rect x="600" y="62" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 590 62)" fill="#F8CC46"/>
+<rect x="610" y="72" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 580 72)" fill="#F8CC46"/>
+<rect x="620" y="82" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 570 82)" fill="#F8CC46"/>
+<rect x="630" y="92" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 560 92)" fill="#F8CC46"/>
+<rect x="640" y="102" width="10" height="10" fill="#F8CC46"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 550 102)" fill="#F8CC46"/>
+<rect x="628" y="132" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 672 132)" fill="#79EAEE"/>
+<rect x="632" y="136" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 668 136)" fill="#79EAEE"/>
+<rect x="636" y="140" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 664 140)" fill="#79EAEE"/>
+<rect x="640" y="144" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 660 144)" fill="#79EAEE"/>
+<rect x="644" y="148" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 656 148)" fill="#79EAEE"/>
+<rect x="648" y="152" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 652 152)" fill="#79EAEE"/>
+<rect x="652" y="156" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 648 156)" fill="#79EAEE"/>
+<rect x="656" y="160" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 644 160)" fill="#79EAEE"/>
+<rect x="660" y="164" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 640 164)" fill="#79EAEE"/>
+<rect x="664" y="168" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 636 168)" fill="#79EAEE"/>
+<rect x="632" y="132" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 668 132)" fill="#79EAEE"/>
+<rect x="636" y="136" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 664 136)" fill="#79EAEE"/>
+<rect x="640" y="140" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 660 140)" fill="#79EAEE"/>
+<rect x="644" y="144" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 656 144)" fill="#79EAEE"/>
+<rect x="648" y="148" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 652 148)" fill="#79EAEE"/>
+<rect x="652" y="152" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 648 152)" fill="#79EAEE"/>
+<rect x="656" y="156" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 644 156)" fill="#79EAEE"/>
+<rect x="660" y="160" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 640 160)" fill="#79EAEE"/>
+<rect x="664" y="164" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 636 164)" fill="#79EAEE"/>
+<rect x="668" y="168" width="4" height="4" fill="#79EAEE"/>
+<rect width="4" height="4" transform="matrix(-1 0 0 1 632 168)" fill="#79EAEE"/>
+</g>
+</svg>
